@@ -85,3 +85,20 @@
 .rome-feature-figure figcaption{font-size:.75rem;color:#d9dfdc;margin-top:9px}
 .rome-feature-figure figcaption a{text-underline-offset:3px}
 @media(max-width:800px){.attraction-grid{grid-template-columns:1fr}.attraction-card{min-height:0}.rome-feature-inner{grid-template-columns:1fr;gap:22px}.rome-feature{padding:65px 0}}
+
+/* PN-HOUSE-ATLAS-CTA */
+.atlas-cta{margin-top:34px;padding:30px 32px;background:#21372e;color:#fff;display:flex;align-items:center;justify-content:space-between;gap:30px}
+.atlas-cta p{margin:0;max-width:760px;color:#dfe5e1;font-size:1.02rem}
+.atlas-cta .button{white-space:nowrap}
+@media(max-width:800px){.atlas-cta{display:block;padding:26px 24px}.atlas-cta .button{margin-top:20px}}
+
+/* PN-HOUSE-FOOTER-CONTACTS-V1 */
+.footer-grid{grid-template-columns:1.25fr .9fr .9fr 1.15fr}
+.footer-grid p{margin-top:0}
+.footer-contacts a{text-underline-offset:4px}
+.footer-contacts>p{margin-bottom:14px}
+.whatsapp-link{display:inline-flex;align-items:center;gap:10px;text-decoration:none}
+.whatsapp-link:hover span,.whatsapp-link:focus-visible span{text-decoration:underline;text-underline-offset:4px}
+.whatsapp-icon{width:24px;height:24px;flex:0 0 24px;color:#d5bb8b}
+@media(max-width:1000px){.footer-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:800px){.footer-grid{grid-template-columns:1fr}}
