@@ -25,9 +25,9 @@ Versione attualmente indicata nel footer della pagina principale. Questa voce co
 		- Pagina Esplora
 		- contatti
 		- Miglioramento Licenze
-### Modificato
+	### Modificato
 
-### Corretto
+	### Corretto
 
 
 <!-- Esempio per la prossima release:
