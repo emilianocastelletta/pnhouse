@@ -1,28 +1,36 @@
 # Changelog - PN HOUSE
 Questo file registra le modifiche alle versioni del sito. Le nuove versioni vanno aggiunte in cima, indicando la data di pubblicazione effettiva.
 
+## [1.2.1] - 2026-10-16
+
+### Added
+- Integrato Cloudflare Web Analytics in tutte le pagine HTML del sito.
+- Aggiunto il beacon Cloudflare per la raccolta delle statistiche di utilizzo e delle visite al sito.
+
+### Changed
+- Predisposto il monitoraggio delle pagine multilingua del sito PN HOUSE.
 ## [1.2.0] - 2026-10-06
-	### Aggiunto
-		- Pagina FunAndActivity.html
-	### Modificato
-		- Footer omogeneo su pagine Explore.html
+### Aggiunto
+- Pagina FunAndActivity.html
+### Modificato
+- Footer omogeneo su pagine Explore.html
 
 ## [1.1.2] - 2026-10-01
-	### Aggiunto
-		- Pagina Esplora
-		- contatti
-		- Miglioramento Licenze
-	### Modificato
+### Aggiunto
+- Pagina Esplora
+- contatti
+- Miglioramento Licenze
+### Modificato
 
-	### Corretto
+### Corretto
 	
 ## [1.1.0] - 2026-10-01
-	### Aggiunto
-	- Traduzioni
-	### Modificato
-	### Corretto
+### Aggiunto
+- Traduzioni
+### Modificato
+### Corretto
 ## [1.0.0] - 2026-09-30
-	Prima versione del sito
+Prima versione del sito
 
 
 
