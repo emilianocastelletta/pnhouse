@@ -1,6 +1,18 @@
 # Changelog - PN HOUSE
 Questo file registra le modifiche alle versioni del sito. Le nuove versioni vanno aggiunte in cima, indicando la data di pubblicazione effettiva.
 
+## [1.3.0] - 2026-10-19
+
+### Added
+- Contatto WhatsApp nella sezione prenotazione, con messaggi precompilati in IT, EN, FR, ES, DE e RU.
+- Pulsanti Booking.com e WhatsApp affiancati su desktop e impilati su smartphone.
+
+### Changed
+- Il pulsante Prenota nel menu delle pagine con sezione booking porta alla sezione interna.
+- Testi della sezione prenotazione aggiornati nelle sei lingue.
+- Versione nei footer: 1.3.0.20261019 (release 1.3.0, data 2026-10-19).
+- Scorrimento con rispetto della preferenza di movimento ridotto.
+
 ## [1.2.1] - 2026-10-16
 
 ### Added
